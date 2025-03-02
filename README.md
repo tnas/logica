@@ -16,40 +16,36 @@
     - Daniel J. Velleman. Cambridge University Press
 
 ## Conteúdo Programático
-| Dia   | Aula   | Observação |
+| Dia   | Aula   | Tópicos |
 | :----:| :----: | :----     |
-| 24/02 | 01     | Apresentação da Disciplina  |
-| 25/02 | 02     | [Lab] Preparação de Ambiente e Trabalho Prático 0  |
-| 03/03 | --     | _Feriado Nacional - Carnaval_ |
-| 04/03 | --     | _Feriado Nacional - Carnaval_ |
-| 10/03 | 03     | |
-| 11/03 | 04     |  |
-| 17/03 | 05     |            |
-| 18/03 | 06     |            |
-| 24/03 | 07     |            |
-| 25/03 | 08     |            |
-| 31/03 | 09     | [_**Entrega TP0**_]            |
-| 01/04 | 10     |            |
-| 07/04 | 11     | Seminário de Apresentação do TP 0 |
-| 08/04 | 12     | Seminário de Apresentação do TP 0 |
-| 14/04 | 13     | Seminário de Apresentação do TP 0 |
-| 15/04 | 14     | **Avaliação 1º Bimestre** |
-| 21/04 | --     | _Feriado Nacional - Tiradentes_ |
-| 22/04 | 15     |            |
-| 28/04 | 16     |            |
-| 29/04 | 17     |            |
-| 05/05 | 18     |            |
-| 06/05 | 19     |            |
-| 12/05 | 20     |            |
-| 13/05 | 21     |            |
-| 19/05 | 22     |            |
-| 20/05 | 23     |            |
-| 26/05 | 24     |            |
-| 27/05 | 25     |            |
-| 02/06 | 26     |            |
-| 03/06 | 27     |            |
-| 09/06 | 28     |            |
-| 10/06 | 29     |            |
+| 14/03 | 01     | Apresentação da Disciplina. Introdução à Lógica Computacional.  |
+| 14/03 | 02     | Lógica Proposicional  |
+| 21/03 | 03     | Aplicações da Lógica Proposicional. Equivalências Proposicionais. |
+| 21/03 | 04     |            |
+| 28/03 | 05     |            |
+| 28/03 | 06     |            |
+| 04/04 | 07     |            |
+| 04/04 | 08     |            |
+| 11/04 | 09     |            |
+| 11/04 | 10     |            |
+| 18/04 | 11     |            |
+| 18/04 | 12     | **Avaliação 1º Bimestre** |
+| 25/04 | 13     |            |
+| 25/04 | 14     |            |
+| 02/05 | 15     |            |
+| 02/05 | 16     |            |
+| 09/05 | 17     |            |
+| 09/05 | 18     |            |
+| 16/05 | 19     |            |
+| 16/05 | 20     |            |
+| 23/05 | 21     |            |
+| 23/05 | 22     |            |
+| 30/05 | 23     |            |
+| 30/05 | 24     |            |
+| 06/06 | 25     |            |
+| 06/06 | 26     |            |
+| 13/06 | 28     |            |
+| 13/06 | 29     |            |
 | 16/06 | 30     |            |
 | 17/06 | 31     |            |
 | 23/06 | 32     |            |
