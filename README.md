@@ -1,2 +1,2 @@
-# logica
-Disciplina de Lógica - Engenharia de Software
+# Lógica (2025/01)
+
