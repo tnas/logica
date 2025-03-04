@@ -14,7 +14,7 @@
 ## Bibliografia Complementar
 - [How to Prove It: A Structured Approach (2nd Edition)](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
     - Daniel J. Velleman. Cambridge University Press
-- Notas de Aula (Introdução à Lógica Computacional)
+- Notas de Aula ([Introdução à Lógica Computacional](https://msalvimjr.github.io/webpage-dcc/teaching/ilc/))
     - Prof. Dr. Mário Sérgio Alvim. DCC/UFMG  
 
 ## Conteúdo Programático
