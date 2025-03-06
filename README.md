@@ -15,37 +15,41 @@
 - [How to Prove It: A Structured Approach (2nd Edition)](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
     - Daniel J. Velleman. Cambridge University Press 
 
+https://github.com/tnas/logica/wiki/01-%E2%80%90-L%C3%B3gica-Proposicional#lista-de-exerc%C3%ADcios
+
 ## Conteúdo Programático
 | Dia   | Aula   | Tópicos |
 | :----:| :----: | :----     |
-| 14/03 | 01     | Apresentação da Disciplina. Introdução à Lógica Computacional.  |
-| 14/03 | 02     | Lógica Proposicional  |
-| 21/03 | 03     | Aplicações da Lógica Proposicional. Equivalências Proposicionais. |
-| 21/03 | 04     |            |
-| 28/03 | 05     |            |
-| 28/03 | 06     |            |
-| 04/04 | 07     |            |
-| 04/04 | 08     |            |
-| 11/04 | 09     |            |
-| 11/04 | 10     | **Avaliação 1º Bimestre**  |
+| 07/03 | 01     | Apresentação da Disciplina. Introdução à Lógica Computacional.  |
+| 07/03 | 02     | Lógica Proposicional.  |
+| 14/03 | 03     | Lógica Proposicional. Aplicações da Lógica Proposicional. [Exercícios](Aplicações da Lógica Proposicional.)  |
+| 14/03 | 04     | Aplicações da Lógica Proposicional. Equivalências Proposicionais.  |
+| 21/03 | 05     |            |
+| 21/03 | 06     |            |
+| 28/03 | 07     |            |
+| 28/03 | 08     |            |
+| 04/04 | 09     |            |
+| 04/04 | 10     |            |
+| 11/04 | 11     |            |
+| 11/04 | 12     | **Avaliação 1º Bimestre**  |
 | 18/04 | --     |  _Feriado Nacional - Sexta-feira Santa_   |
-| 18/04 | 11     |  |
-| 25/04 | 12     |            |
-| 25/04 | 13     |            |
-| 02/05 | 14     |            |
-| 02/05 | 15     |            |
-| 09/05 | 16     |            |
-| 09/05 | 17     |            |
-| 16/05 | 18     |            |
-| 16/05 | 19     |            |
-| 23/05 | 20     |            |
-| 23/05 | 21     |            |
-| 30/05 | 22     |            |
-| 30/05 | 23     |            |
-| 06/06 | 24     |            |
-| 06/06 | 25     |            |
-| 13/06 | 26     |            |
-| 13/06 | 27     | **Avaliação 2º Bimestre**           |
-| 20/06 | 28,29 | Revisão - 1º Bimestre |
-| 27/06 | 30,31 | Revisão - 2º Bimestre |
-| 04/07 | 32,33 | **Prova Final** |
+| 18/04 | 13     |  |
+| 25/04 | 14     |            |
+| 25/04 | 15     |            |
+| 02/05 | 16     |            |
+| 02/05 | 17     |            |
+| 09/05 | 18     |            |
+| 09/05 | 19     |            |
+| 16/05 | 20     |            |
+| 16/05 | 21     |            |
+| 23/05 | 22     |            |
+| 23/05 | 23     |            |
+| 30/05 | 24     |            |
+| 30/05 | 25     |            |
+| 06/06 | 26     |            |
+| 06/06 | 27     |            |
+| 13/06 | 28     |            |
+| 13/06 | 29     | **Avaliação 2º Bimestre**           |
+| 20/06 | 30, 31 | Revisão - 1º Bimestre |
+| 27/06 | 32, 33 | Revisão - 2º Bimestre |
+| 04/07 | 34, 35 | **Prova Final** |
