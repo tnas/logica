@@ -15,14 +15,12 @@
 - [How to Prove It: A Structured Approach (2nd Edition)](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
     - Daniel J. Velleman. Cambridge University Press 
 
-https://github.com/tnas/logica/wiki/01-%E2%80%90-L%C3%B3gica-Proposicional#lista-de-exerc%C3%ADcios
-
 ## Conteúdo Programático
 | Dia   | Aula   | Tópicos |
 | :----:| :----: | :----     |
 | 07/03 | 01     | Apresentação da Disciplina. Introdução à Lógica Computacional.  |
 | 07/03 | 02     | Lógica Proposicional.  |
-| 14/03 | 03     | Lógica Proposicional. Aplicações da Lógica Proposicional. [Exercícios](Aplicações da Lógica Proposicional.)  |
+| 14/03 | 03     | Lógica Proposicional. Aplicações da Lógica Proposicional. [Exercícios]([Aplicações da Lógica Proposicional.](https://github.com/tnas/logica/wiki/01-%E2%80%90-L%C3%B3gica-Proposicional#lista-de-exerc%C3%ADcios).)  |
 | 14/03 | 04     | Aplicações da Lógica Proposicional. Equivalências Proposicionais.  |
 | 21/03 | 05     |            |
 | 21/03 | 06     |            |
