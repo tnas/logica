@@ -20,7 +20,7 @@
 | :----:| :----: | :----     |
 | 07/03 | 01     | Apresentação da Disciplina. Introdução à Lógica Computacional.  |
 | 07/03 | 02     | Lógica Proposicional.  |
-| 14/03 | 03     | Lógica Proposicional. Aplicações da Lógica Proposicional. [Exercícios]([Aplicações da Lógica Proposicional.](https://github.com/tnas/logica/wiki/01-%E2%80%90-L%C3%B3gica-Proposicional#lista-de-exerc%C3%ADcios).)  |
+| 14/03 | 03     | Lógica Proposicional. [Exercícios](https://github.com/tnas/logica/wiki/01-%E2%80%90-L%C3%B3gica-Proposicional#lista-de-exerc%C3%ADcios). Aplicações da Lógica Proposicional.)  |
 | 14/03 | 04     | Aplicações da Lógica Proposicional. Equivalências Proposicionais.  |
 | 21/03 | 05     |            |
 | 21/03 | 06     |            |
