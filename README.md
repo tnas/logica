@@ -24,11 +24,11 @@
 | 14/03 | 04     | Aplicações da Lógica Proposicional. [Exercícios](https://github.com/tnas/logica/wiki/Exerc%C3%ADcios#l%C3%B3gica-proposicional-e-aplica%C3%A7%C3%B5es) |
 | 21/03 | 05     | Equivalências Proposicionais. |
 | 21/03 | 06     | Equivalências Proposicionais. [Exercícios](https://github.com/tnas/logica/wiki/Exerc%C3%ADcios#equival%C3%AAncias-proposicionais) |
-| 28/03 | 07     |            |
-| 28/03 | 08     |            |
-| 04/04 | 09     |            |
-| 04/04 | 10     |            |
-| 11/04 | 11     |            |
+| 28/03 | 07     | Predicados e Quantificadores. |
+| 28/03 | 08     | Predicados e Quantificadores. |
+| 04/04 | 09     | Regras de Inferência. |
+| 04/04 | 10     | Regras de Inferência. Falácias Lógicas.  |
+| 11/04 | 11     | Revisão. |
 | 11/04 | 12     | **Avaliação 1º Bimestre**  |
 | 18/04 | --     |  _Feriado Nacional - Sexta-feira Santa_   |
 | 18/04 | 13     |  |
