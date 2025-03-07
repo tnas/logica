@@ -4,7 +4,7 @@
 | 2025      | 1       | 1        | 1ESBN | Sexta-feira 19h00-20h40 / 20h50-22h30 |
 
 - **Professor:** [Thiago Nascimento](https://sites.google.com/site/nascimenthiago) (thiagorodrigues@unibrasil.com.br)
-- **Ensalamento:** Bloco 5 - 2º Andar - Sala 127
+- **[Ensalamento](https://www.unibrasil.com.br/wp-content/uploads/2025/02/ensalamento-noturno-2025-1-revisado.pdf):** Bloco 5 - 2º Andar - Sala 127
 - [Calendário Acadêmico](https://www.unibrasil.com.br/wp-content/uploads/2024/12/Calendario-GRADUACAO-PRESENCIAL-2025-UNIBRASIL.pdf)
 
 ## Livro-texto
