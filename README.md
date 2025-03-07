@@ -16,7 +16,7 @@
     - Daniel J. Velleman. Cambridge University Press 
 
 ## Conteúdo Programático
-| Dia   | Aula   | Tópicos |
+| Dia   | Aula   | [Tópicos](https://github.com/tnas/logica/wiki) |
 | :----:| :----: | :----     |
 | 07/03 | 01     | Apresentação da Disciplina. Introdução à Lógica Computacional.  |
 | 07/03 | 02     | Lógica Proposicional.  |
