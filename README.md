@@ -14,7 +14,11 @@
 ## Bibliografia Complementar
 - [How to Prove It: A Structured Approach (2nd Edition)](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
     - Daniel J. Velleman. Cambridge University Press 
-
+- (Biblioteca) Fundamentos matemáticos para a ciência da computação
+    - Judith Gersting
+- (Biblioteca) Matemática discreta para computação e informática
+    - Paulo Blauth Menezes
+      
 ## Conteúdo Programático
 | Dia   | Aula   | [Tópicos](https://github.com/tnas/logica/wiki) |
 | :----:| :----: | :----     |
