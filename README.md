@@ -29,8 +29,8 @@
 | 21/03 | 05     | Equivalências Proposicionais. | **Entrega Lista 01** |
 | 21/03 | 06     | Equivalências Proposicionais. | [Lista de Exercícios 02](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-02) |
 | 28/03 | 07     | Predicados | **Entrega Lista 02** |
-| 28/03 | 08     | Quantificadores. |   |
-| 04/04 | 09     | Regras de Inferência. |   |
+| 28/03 | 08     | Quantificadores. | [Lista de Exercícios 03](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)  |
+| 04/04 | 09     | Regras de Inferência. | **Entrega Lista 03**  |
 | 04/04 | 10     | Regras de Inferência. Falácias Lógicas.  |   |
 | 11/04 | 11     | Revisão. |   |
 | 11/04 | 12     | **Avaliação 1º Bimestre**  |   |
