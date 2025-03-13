@@ -1,7 +1,7 @@
 # Lógica
 | Ano      | Semestre | Turma | Dias/Horários | Sala |
 | :------: | :------: | :-----: | :---: | :---: | 
-| 2025      | 1       | 1ESC | Quarta-feira 19h00-20h40 / 20h50-22h30 | Bloco 3 - º Andar - Sala 63 |
+| 2025      | 1       | 1ESC | Quarta-feira 19h00-20h40 / 20h50-22h30 | Bloco 3 - 2º Andar - Sala 63 |
 | 2025      | 1       | 1ESB | Sexta-feira 19h00-20h40 / 20h50-22h30 | Bloco 5 - 2º Andar - Sala 127 |
 
 - **Professor:** [Thiago Nascimento](https://sites.google.com/site/nascimenthiago) (thiagorodrigues@unibrasil.com.br)
