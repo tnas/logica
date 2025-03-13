@@ -1,6 +1,6 @@
 # Lógica
 | Ano      | Semestre | Período | Turma | Dias/Horários | Sala |
-| :------: | :------: | :-----: | :---: | :---: |
+| :------: | :------: | :-----: | :---: | :---: | :---: |
 | 2025      | 1       | 1        | ESC | Quarta-feira 19h00-20h40 / 20h50-22h30 | Bloco 3 - º Andar - Sala 63 |
 | 2025      | 1       | 1        | ESB | Sexta-feira 19h00-20h40 / 20h50-22h30 | Bloco 5 - 2º Andar - Sala 127 |
 
