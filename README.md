@@ -1,8 +1,8 @@
 # Lógica
-| Ano      | Semestre | Período | Turma | Dias/Horários | Sala |
+| Ano      | Semestre | Turma | Dias/Horários | Sala |
 | :------: | :------: | :-----: | :---: | :---: | :---: |
-| 2025      | 1       | 1        | ESC | Quarta-feira 19h00-20h40 / 20h50-22h30 | Bloco 3 - º Andar - Sala 63 |
-| 2025      | 1       | 1        | ESB | Sexta-feira 19h00-20h40 / 20h50-22h30 | Bloco 5 - 2º Andar - Sala 127 |
+| 2025      | 1       | 1ESC | Quarta-feira 19h00-20h40 / 20h50-22h30 | Bloco 3 - º Andar - Sala 63 |
+| 2025      | 1       | 1ESB | Sexta-feira 19h00-20h40 / 20h50-22h30 | Bloco 5 - 2º Andar - Sala 127 |
 
 - **Professor:** [Thiago Nascimento](https://sites.google.com/site/nascimenthiago) (thiagorodrigues@unibrasil.com.br)
 - [Ensalamento](https://www.unibrasil.com.br/wp-content/uploads/2025/02/ensalamento-noturno-2025-1-revisado.pdf)
