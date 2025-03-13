@@ -22,7 +22,7 @@
       
 ## Conteúdo Programático
 | ESC | ESB   | Aula   | [Tópicos](https://github.com/tnas/logica/wiki) | Atividades |
-| :----:| :----: | :----     | :----     |
+| :----:| :----:| :----: | :----     | :----     |
 | 12/03 | 07/03 | 01     | Apresentação da Disciplina. Introdução à Lógica Computacional.  |
 | 19/03 | 07/03 | 02     | Lógica Proposicional.  |   |
 | 19/03 | 14/03 | 03     | Lógica Proposicional. |   |
