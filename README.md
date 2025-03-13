@@ -21,38 +21,38 @@
     - Paulo Blauth Menezes
       
 ## Conteúdo Programático
-| Dia   | Aula   | [Tópicos](https://github.com/tnas/logica/wiki) | Atividades |
+| ESC | ESB   | Aula   | [Tópicos](https://github.com/tnas/logica/wiki) | Atividades |
 | :----:| :----: | :----     | :----     |
-| 07/03 | 01     | Apresentação da Disciplina. Introdução à Lógica Computacional.  |
-| 07/03 | 02     | Lógica Proposicional.  |   |
-| 14/03 | 03     | Lógica Proposicional. |   |
-| 14/03 | 04     | Aplicações da Lógica Proposicional. | [Lista de Exercícios 01](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-01) |
-| 21/03 | 05     | Equivalências Proposicionais. | **Entrega Lista 01** |
-| 21/03 | 06     | Equivalências Proposicionais. | [Lista de Exercícios 02](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-02) |
-| 28/03 | 07     | Predicados | **Entrega Lista 02** |
-| 28/03 | 08     | Quantificadores. | [Lista de Exercícios 03](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)  |
-| 04/04 | 09     | Regras de Inferência. | **Entrega Lista 03**  |
-| 04/04 | 10     | Regras de Inferência. Falácias Lógicas.  |   |
-| 11/04 | 11     | Revisão. |   |
-| 11/04 | 12     | **Avaliação 1º Bimestre**  |   |
-| 18/04 | --     |  _Feriado Nacional - Sexta-feira Santa_   |   |
-| 18/04 | --     |  _Feriado Nacional - Sexta-feira Santa_ |   |
-| 25/04 | 13     | Introdução às demonstrações.  |   |
-| 25/04 | 14     | Introdução às demonstrações |   |
-| 02/05 | 15     | Métodos de demonstração. |   |
-| 02/05 | 16     | Métodos de demonstração.  |   |
-| 09/05 | 17     | Estratégias de demonstração. |   |
-| 09/05 | 18     | Estratégias de demonstração.   |   |
-| 16/05 | 19     | Conjuntos e Operações |   |
-| 16/05 | 20     | Funções |   |
-| 23/05 | 21     | Sequências |   |
-| 23/05 | 22     | Somatórios |   |
-| 30/05 | 23     | Indução Matemática (fraca) |   |
-| 30/05 | 24     | Indução Matemática (forte) |   |
-| 06/06 | 25     | Definições Recursivas |   |
-| 06/06 | 26     | Indução Estrutural |   |
-| 13/06 | 27     | Revisão.   |   |
-| 13/06 | 28     | **Avaliação 2º Bimestre**  |   |
-| 20/06 | 29, 30 | Revisão - 1º Bimestre |   |
-| 27/06 | 31, 32 | Revisão - 2º Bimestre |   |
-| 04/07 | 33, 34 | **Prova Final** |   |
+| 12/03 | 07/03 | 01     | Apresentação da Disciplina. Introdução à Lógica Computacional.  |
+| 19/03 | 07/03 | 02     | Lógica Proposicional.  |   |
+| 19/03 | 14/03 | 03     | Lógica Proposicional. |   |
+| 19/03 | 14/03 | 04     | Aplicações da Lógica Proposicional. | [Lista de Exercícios 01](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-01) |
+| 19/03 | 21/03 | 05     | Equivalências Proposicionais. | **Entrega Lista 01** |
+| 19/03 | 21/03 | 06     | Equivalências Proposicionais. | [Lista de Exercícios 02](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-02) |
+| 26/03 | 28/03 | 07     | Predicados | **Entrega Lista 02** |
+| 26/03 | 28/03 | 08     | Quantificadores. | [Lista de Exercícios 03](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)  |
+| 02/04 | 04/04 | 09     | Regras de Inferência. | **Entrega Lista 03**  |
+| 02/04 | 04/04 | 10     | Regras de Inferência. Falácias Lógicas.  |   |
+| 09/04 | 11/04 | 11     | Revisão. |   |
+| 09/04 | 11/04 | 12     | **Avaliação 1º Bimestre**  |   |
+| 16/04 | 18/04 | --     | ESC: Não haverá aula. _Feriado Nacional - Sexta-feira Santa_   |  **Atividade Complementar** |
+| 16/04 | 18/04 | --     | ESC: Não haverá aula. _Feriado Nacional - Sexta-feira Santa_ |  **Atividade Complementar** |
+| 23/04 | 25/04 | 13     | Introdução às demonstrações.  |   |
+| 23/04 | 25/04 | 14     | Introdução às demonstrações |   |
+| 30/04 | 02/05 | 15     | Métodos de demonstração. |   |
+| 30/04 | 02/05 | 16     | Métodos de demonstração.  |   |
+| 07/05 | 09/05 | 17     | Estratégias de demonstração. |   |
+| 07/05 | 09/05 | 18     | Estratégias de demonstração.   |   |
+| 14/05 | 16/05 | 19     | Conjuntos e Operações |   |
+| 14/05 | 16/05 | 20     | Funções |   |
+| 21/05 | 23/05 | 21     | Sequências |   |
+| 21/05 | 23/05 | 22     | Somatórios |   |
+| 28/05 | 30/05 | 23     | Indução Matemática (fraca) |   |
+| 28/05 | 30/05 | 24     | Indução Matemática (forte) |   |
+| 04/06 | 06/06 | 25     | Definições Recursivas |   |
+| 04/06 | 06/06 | 26     | Indução Estrutural |   |
+| 11/06 | 13/06 | 27     | Revisão   |   |
+| 11/06 | 13/06 | 27     | **Avaliação 2º Bimestre**   |   |
+| 18/06 | 20/06 | 29, 30 | Revisão - 1º Bimestre |   |
+| 25/06 | 27/06 | 31, 32 | Revisão - 2º Bimestre |   |
+| 02/07 | 04/07 | 33, 34 | **Prova Final** |   |
