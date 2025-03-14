@@ -14,7 +14,9 @@
 
 ## Bibliografia Complementar
 - [How to Prove It: A Structured Approach (2nd Edition)](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
-    - Daniel J. Velleman. Cambridge University Press 
+    - Daniel J. Velleman. Cambridge University Press
+- [Introdução à Lógica Matemática](http://dx.doi.org/10.13140/RG.2.2.10374.89923/1)
+    - Alexandre Levada - UFSCar (2025) 
 - (Biblioteca) Fundamentos matemáticos para a ciência da computação
     - Judith Gersting
 - (Biblioteca) Matemática discreta para computação e informática
