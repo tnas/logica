@@ -37,8 +37,8 @@
 | 02/04 | 04/04 | 10     | Regras de Inferência. Falácias Lógicas.  |   |
 | 09/04 | 11/04 | 11     | Revisão. |   |
 | 09/04 | 11/04 | 12     | **Avaliação 1º Bimestre**  |   |
-| 16/04 | 18/04 | --     | ESC: Não haverá aula. _Feriado Nacional - Sexta-feira Santa_   |  **Atividade Complementar** |
-| 16/04 | 18/04 | --     | ESC: Não haverá aula. _Feriado Nacional - Sexta-feira Santa_ |  **Atividade Complementar** |
+| 16/04 | 18/04 | --     | ESC: Não haverá aula. / ESB: _Feriado Nacional - Sexta-feira Santa_   |  **Atividade Complementar** |
+| 16/04 | 18/04 | --     | ESC: Não haverá aula. / ESB: _Feriado Nacional - Sexta-feira Santa_ |  **Atividade Complementar** |
 | 23/04 | 25/04 | 13     | Introdução às demonstrações.  |   |
 | 23/04 | 25/04 | 14     | Introdução às demonstrações |   |
 | 30/04 | 02/05 | 15     | Métodos de demonstração. |   |
