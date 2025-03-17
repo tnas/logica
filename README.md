@@ -28,9 +28,9 @@
 | 12/03 | 07/03 | 01     | Apresentação da Disciplina. Introdução à Lógica Computacional.  |
 | 19/03 | 07/03 | 02     | Lógica Proposicional.  |   |
 | 19/03 | 14/03 | 03     | Lógica Proposicional. |   |
-| 19/03 | 14/03 | 04     | Aplicações da Lógica Proposicional. | [Lista de Exercícios 01](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-01) |
-| 19/03 | 21/03 | 05     | Equivalências Proposicionais. | **Entrega Lista 01** |
-| 19/03 | 21/03 | 06     | Equivalências Proposicionais. | [Lista de Exercícios 02](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-02) |
+| 19/03 | 14/03 | 04     | Aplicações da Lógica Proposicional. | ESB: [Lista de Exercícios 01](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-01) |
+| 19/03 | 21/03 | 05     | Equivalências Proposicionais. | ESB: **Entrega Lista 01** |
+| 19/03 | 21/03 | 06     | Equivalências Proposicionais. | ESC: Lista 01 + 02 / ESB: [Lista de Exercícios 02](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-02) |
 | 26/03 | 28/03 | 07     | Predicados | **Entrega Lista 02** |
 | 26/03 | 28/03 | 08     | Quantificadores. | [Lista de Exercícios 03](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)  |
 | 02/04 | 04/04 | 09     | Regras de Inferência. | **Entrega Lista 03**  |
