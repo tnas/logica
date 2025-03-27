@@ -31,14 +31,14 @@
 | 19/03 | 14/03 | 04     | Aplicações da Lógica Proposicional. | ESB: [Lista de Exercícios 01](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-01) |
 | 19/03 | 21/03 | 05     | Equivalências Proposicionais. | ESB: **Entrega Lista 01** |
 | 19/03 | 21/03 | 06     | Equivalências Proposicionais. | ESC: Lista 01 + 02 / ESB: [Lista de Exercícios 02](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-02) |
-| 26/03 | 28/03 | 07     | Exercícios em Sala. Predicados | **Entrega Lista 02** |
-| 26/03 | 28/03 | 08     | Quantificadores. | [Lista de Exercícios 03](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)  |
-| 02/04 | 04/04 | 09     | Regras de Inferência. | **Entrega Lista 03**  |
-| 02/04 | 04/04 | 10     | Regras de Inferência. Falácias Lógicas.  |   |
-| 09/04 | 11/04 | 11     | Revisão. |   |
-| 09/04 | 11/04 | 12     | ESC: Exercícios em Sala / ESB: **Avaliação 1º Bimestre**  |   |
+| 26/03 | 28/03 | 07     | Revisão. | **Entrega Lista 02** |
+| 26/03 | 28/03 | 08     | Revisão. |   |
+| 02/04 | 04/04 | 09     | Predicados. |  |
+| 02/04 | 04/04 | 10     | Quantificadores.  | [Lista de Exercícios 03](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)  |
+| 09/04 | 11/04 | 11     | Revisão. |  **Entrega Lista 03** |
+| 09/04 | 11/04 | 12     | ESC: Revisão. / ESB: **Avaliação 1º Bimestre**  |   |
 | 16/04 | 18/04 | --     | ESC: **Avaliação 1º Bimestre** / ESB: _Feriado Nacional - Sexta-feira Santa_   |  |
-| 23/04 | 25/04 | 13     | Introdução às demonstrações.  |   |
+| 23/04 | 25/04 | 13     | Regras de Inferência. Falácias Lógicas.  |   |                         
 | 23/04 | 25/04 | 14     | Introdução às demonstrações |   |
 | 30/04 | 02/05 | 15     | Métodos de demonstração. |   |
 | 30/04 | 02/05 | 16     | Métodos de demonstração.  |   |
