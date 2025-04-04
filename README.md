@@ -33,9 +33,9 @@
 | 19/03 | 21/03 | 06     | Equivalências Proposicionais. | ESC: Lista 01 + 02 / ESB: [Lista de Exercícios 02](https://github.com/tnas/logica/wiki/Lista-de-Exerc%C3%ADcios-02) |
 | 26/03 | 28/03 | 07, 08 | Revisão. | **Entrega Lista 02** |
 | 02/04 | 04/04 | 09     | Predicados. |  |
-| 02/04 | 04/04 | 10     | ESC: Quantificadores. / ESB: Quantificadores + Aninhados  | [Lista de Exercícios 03](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)  |
+| 02/04 | 04/04 | 10     | ESC: Quantificadores. / ESB: Quantificadores Aninhados  | [Lista de Exercícios 03](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)  |
 | 09/04 | 11/04 | 11, 12 | ESC: Quantificadores Aninhados. Revisão. |  ESB: **Avaliação 1º Bimestre** / **Entrega Lista 03** |
-| 16/04 | 18/04 | --     | ESC: **Avaliação 1º Bimestre** / ESB: _Feriado Nacional   |  |
+| 16/04 | 18/04 | --     | ESB: _Feriado Nacional_   | ESC: **Avaliação 1º Bimestre** |
 | 23/04 | 25/04 | 13     | Regras de Inferência. Falácias Lógicas |   |   |                         
 | 23/04 | 25/04 | 14     | Introdução às demonstrações |   |
 | 30/04 | 02/05 | 15     | Métodos de demonstração. |   |
