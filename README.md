@@ -34,11 +34,11 @@
 | 26/03 | 28/03 | 07, 08 | Revisão. | **Entrega Lista 02** |
 | 02/04 | 04/04 | 09     | Predicados. |  |
 | 02/04 | 04/04 | 10     | ESC: Quantificadores. / ESB: Quantificadores  | [Lista de Exercícios 03 (1 - 6)](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)  |
-| 09/04 | 11/04 | 11, 12 | ESC: Quantificadores Aninhados.  |  ESB: **Avaliação 1º Bimestre** / **Entrega Lista 03** |
+| 09/04 | 11/04 | 11, 12 | ESC: Quantificadores Aninhados.  |  ESB: **Avaliação 1º Bimestre** / **Entrega Lista 03 (1-6)** |
 | 16/04 | 18/04 | --     | ESB: _Feriado Nacional_   | ESC: **Avaliação 1º Bimestre** |
 | 23/04 | 25/04 | 13     | Regras de Inferência. Falácias Lógicas | [Lista de Exercícios 03 (7 - 13)](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)   |                         
 | 23/04 | 25/04 | 14     | ESC: Revisão / ESB: Quantificadores Aninhados. Revisão. |   |
-| 30/04 | 02/05 | 15     | Introdução às demonstrações |   |
+| 30/04 | 02/05 | 15     | Introdução às demonstrações | **Entrega Lista 03 (7-13)**  |
 | 30/04 | 02/05 | 16     | Métodos de demonstração.  |   |
 | 07/05 | 09/05 | 17     | Estratégias de demonstração. |   |
 | 07/05 | 09/05 | 18     | Estratégias de demonstração.   |   |
