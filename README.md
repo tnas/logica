@@ -41,9 +41,9 @@
 | 30/04 | 02/05 | 16     | Quantificadores Aninhados | [Lista de Exercícios 04 (Exercícios 7 - 13)](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)  |
 | 07/05 | 09/05 | 17     | Regras de Inferência - Proposições | **Entrega Lista 04 (7-13) / Lista 05**  |
 | 07/05 | 09/05 | 18     | Regras de Inferência - Quantificadores   | **Entrega Lista 05**  |
-| 14/05 | 16/05 | 19     | Conjuntos e Operações |   |
-| 14/05 | 16/05 | 20     | Conjuntos e Operações |   |
-| 21/05 | 23/05 | 21     | Funções |   |
+| 14/05 | 16/05 | 19     | Conjuntos e Operações | [Lista de Exercícios 07](https://github.com/tnas/logica/wiki/files/lista_exercicios_06.pdf)   |
+| 14/05 | 16/05 | 20     | Conjuntos e Operações | Exercícios  |
+| 21/05 | 23/05 | 21     | Funções | **Entrega Lista 07**  |
 | 21/05 | 23/05 | 22     | Sequências |   |
 | 28/05 | 30/05 | 23     | Somatórios |   |
 | 28/05 | 30/05 | 24     | Indução Matemática (fraca) |   |
