@@ -39,9 +39,9 @@
 | 23/04 | 25/04 | 13, 14     | ESC: Revisão / ESB: Quantificadores Aninhados. Revisão. |    |                         
 | 30/04 | 02/05 | 15     | ESC: [Vídeo UniBrasil](https://youtu.be/yCP2kT0A4CI). / ESC, ESB: Revisão Quantificadores.  |   |
 | 30/04 | 02/05 | 16     | Quantificadores Aninhados | [Lista de Exercícios 04 (Exercícios 7 - 13)](https://github.com/tnas/logica/wiki/files/lista_exercicios_03.pdf)  |
-| 07/05 | 09/05 | 17     | Regras de Inferência. Falácias Lógicas. Introdução às demonstrações | **Entrega Lista 04 (7-13)**  |
-| 07/05 | 09/05 | 18     | Métodos de demonstração.   |   |
-| 14/05 | 16/05 | 19     | Estratégias de demonstração. |   |
+| 07/05 | 09/05 | 17     | Regras de Inferência - Proposições | **Entrega Lista 04 (7-13) / Lista 05**  |
+| 07/05 | 09/05 | 18     | Regras de Inferência - Quantificadores   | **Entrega Lista 05**  |
+| 14/05 | 16/05 | 19     | Conjuntos e Operações |   |
 | 14/05 | 16/05 | 20     | Conjuntos e Operações |   |
 | 21/05 | 23/05 | 21     | Funções |   |
 | 21/05 | 23/05 | 22     | Sequências |   |
