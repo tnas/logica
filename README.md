@@ -43,14 +43,10 @@
 | 07/05 | 09/05 | 18     | Regras de Inferência - Quantificadores   | **Entrega Lista 05**  |
 | 14/05 | 16/05 | 19     | Conjuntos e Operações | [Lista de Exercícios 07](https://github.com/tnas/logica/wiki/files/lista_exercicios_06.pdf)   |
 | 14/05 | 16/05 | 20     | Conjuntos e Operações | Exercícios  |
-| 21/05 | 23/05 | 21     | Funções | **Entrega Lista 07**  |
-| 21/05 | 23/05 | 22     | Sequências |   |
-| 28/05 | 30/05 | 23     | Somatórios |   |
-| 28/05 | 30/05 | 24     | Indução Matemática (fraca) |   |
-| 04/06 | 06/06 | 25     | Indução Matemática (forte) |   |
-| 04/06 | 06/06 | 26     | Definições Recursivas |   |
-| 11/06 | 13/06 | 27     | Revisão   |   |
-| 11/06 | 13/06 | 27     | **Avaliação 2º Bimestre**   |   |
+| 21/05 | 23/05 | 21, 22     | Sequências | **Entrega Lista 07 / Lista 08**  |
+| 28/05 | 30/05 | 23, 24     | Somatórios | **Entrega Lista 08 / Lista 09**  |
+| 04/06 | 06/06 | 25, 26     | Revisão |   |
+| 11/06 | 13/06 | 27, 28     | **Avaliação 2º Bimestre**   |   |
 | 18/06 | 20/06 | 29, 30 | Revisão - 1º Bimestre |   |
 | 25/06 | 27/06 | 31, 32 | Revisão - 2º Bimestre |   |
 | 02/07 | 04/07 | 33, 34 | **Prova Final** |   |
